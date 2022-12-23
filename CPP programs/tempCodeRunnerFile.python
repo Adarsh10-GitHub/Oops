@@ -1,0 +1,2 @@
+lt = list(map(int,input("array").strip()))
+print(lt)
